@@ -3,7 +3,7 @@
 # Hi, I'm Rohan Kumar 👋
 
 <p align="center">
-  <img src="assets/profile.jpg" width="180" alt="Rohan Kumar" />
+  <img src="profile.jpg" width="180" alt="Rohan Kumar" />
 </p>
 
 ### Aspiring Software Engineer · Freelancer in Training
